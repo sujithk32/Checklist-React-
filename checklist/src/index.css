@@ -1,0 +1,72 @@
+* {
+  font-family: "Bangers";
+  margin: 0;
+}
+
+.checklist {
+  background-color: #222831;
+  padding: 50px;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 15px;
+}
+
+.checklist h1 {
+  color: #fff;
+}
+
+.formarea {
+  background-color: #31363f;
+  color: #fff;
+  text-align: center;
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+.whats {
+  padding-left: 220px;
+  margin-left: 180px;
+}
+
+.form {
+  margin-right: 400px;
+}
+.clist {
+  margin-right: 10px;
+}
+.main {
+  height: 400px;
+  background-color: #eeeeee;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+}
+
+.btn {
+  margin-left: 5px;
+}
+
+.label {
+  display: flex;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.buttons {
+  align-self: start;
+  width: 30px;
+  height: 20px;
+}
+.strike {
+  text-decoration: line-through red;
+}
+
+.but {
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+.clear {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(255, 39, 39);
+}
